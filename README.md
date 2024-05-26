@@ -23,10 +23,15 @@ Welcome to my personal repository for studying and improving my skills in HTML a
 - Final Project: Building a complete, responsive website to consolidate my learning.
 
 #### Resources
+
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+
 [W3Schools](https://www.w3schools.com)
+
 [CSS-Tricks](https://css-tricks.com/)
+
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 Notes
